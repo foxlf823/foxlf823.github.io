@@ -16,3 +16,7 @@ Hello! This is Fei Li's homepage. I am currently working at Wuhan University, Ch
 *   Fei Li and Hong Yu. "An investigation of single-domain and multidomain medication and adverse drug event relation extraction from electronic health record notes using advanced deep learning models." Journal of the American Medical Informatics Association 26.7 (2019): 646-654.
 *   Fei Li, Meishan Zhang, Guohong Fu, Donghong Ji. "A neural joint model for entity and relation extraction from biomedical text." BMC bioinformatics 18.1 (2017): 1-11.
 *   Fei Li, Yue Zhang, Meishan Zhang, Donghong Ji. "Joint Models for Extracting Adverse Drug Events from Biomedical Text." IJCAI. Vol. 2016. 2016.
+
+### Other related information
+*   [Google Scholar](https://scholar.google.com/citations?user=AoMmysMAAAAJ&hl=zh-CN)
+*   [Chinese Homepage](http://cse.whu.edu.cn/info/1259/3297.htm)
