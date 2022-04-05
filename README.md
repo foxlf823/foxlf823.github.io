@@ -20,3 +20,4 @@ Hello! This is Fei Li's homepage. I am currently working at Wuhan University, Ch
 ### Other related information
 *   [Google Scholar](https://scholar.google.com/citations?user=AoMmysMAAAAJ&hl=zh-CN)
 *   [Chinese Homepage](http://cse.whu.edu.cn/info/1259/3297.htm)
+*   [Twitter](https://twitter.com/foxlf823)
